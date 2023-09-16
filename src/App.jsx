@@ -8,7 +8,7 @@ function App() {
         <MusicCards />
       </div>
 
-      <a href="" className="github">
+      <a href="https://github.com/Ekefrancisokechukwu/simple-music-player" className="github">
         {" "}
         <svg
           viewBox="0 0 496 512"
